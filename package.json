@@ -1,0 +1,25 @@
+{
+  "name": "node-rest-express4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "mongoose": "~3.6.11",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmna/node-rest-express4.git"
+  },
+  "author": "David Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmna/node-rest-express4/issues"
+  },
+  "homepage": "https://github.com/davidmna/node-rest-express4#readme"
+}
